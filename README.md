@@ -30,7 +30,7 @@
 
 ## Top Repositories
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Slimaeus/CaroOnline">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slimaeus&repo=caroonline&theme=dracula" />
 </a>
 
