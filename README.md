@@ -1,6 +1,8 @@
 
 ## ✨ About me
 
+- 😀 My name is Nguyễn Hồng Thái
+
 - 📖 Studying at [HUTECH](https://www.hutech.edu.vn/)
 
 - ❤️ I love writing C#
@@ -14,8 +16,6 @@
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 <br>
 
- 
-
 ## ✨ Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=slimaeus&hide=contribs,prs&theme=dracula)
 
@@ -27,6 +27,12 @@
 
 ## 👨‍💻 Github Top Used Languages 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=slimaeus&theme=dracula&include_all_commits=false&count_private=false&layout=compact)
+
+## Top Repositories
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slimaeus&repo=caroonline&theme=dracula" />
+</a>
 
 ## Badges
 ![](https://komarev.com/ghpvc/?username=slimaeus&color=green)
