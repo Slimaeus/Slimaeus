@@ -24,8 +24,8 @@
 
 <br>
 
-<!-- ## ✨ Github Stats
-![](https://github-readme-stats.vercel.app/api?username=slimaeus&hide=contribs,prs&theme=dracula) -->
+## ✨ Github Stats
+![](https://github-readme-stats.vercel.app/api?username=slimaeus&hide=contribs,prs&theme=dracula)
 
 ## 💥 Github Streaks 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=slimaeus&theme=dracula)
@@ -33,14 +33,14 @@
 ## 🏆 Github Trophies
 ![](https://github-profile-trophy.vercel.app/?username=slimaeus&theme=dracula&no-frame=true&column=4&margin-w=15)
 
-<!-- ## 👨‍💻 Github Top Used Languages 
+## 👨‍💻 Github Top Used Languages 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=slimaeus&theme=dracula&include_all_commits=false&count_private=false&layout=compact)
 
 ## Top Repositories
 
 <a href="https://github.com/Slimaeus/CaroOnline">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slimaeus&repo=caroonline&theme=dracula" />
-</a> -->
+</a>
 
 ## Badges
 ![](https://komarev.com/ghpvc/?username=slimaeus&color=green)
