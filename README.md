@@ -41,8 +41,3 @@
   <img alt="Github Top Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slimaeus&theme=nord&include_all_commits=true&count_private=false&layout=compact&card_width=320&hide_progress=true&langs_count=10" />
     <img alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=slimaeus&theme=nord&no-frame=true&column=2&row=1&margin-w=0&rank=-SECRET" />
 <br>
-
-  <h1 align="center"> Badges</h1>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=slimaeus&color=green">
-  </p>
