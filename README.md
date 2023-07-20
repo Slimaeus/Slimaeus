@@ -40,6 +40,7 @@
   <img alt="Github Top Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=slimaeus&theme=dracula&include_all_commits=false&count_private=false&layout=donut&card_width=100" />
   <img alt="Github Top Used Languages" src="https://github-profile-trophy.vercel.app/?username=slimaeus&theme=dracula&no-frame=true&column=2&row=2&margin-w=15&rank=-S,-SS,-SSS,-SECRET,-A,-AA,-AAA" />
 </p>
+<br>
 
   <h1 align="center"> Badges</h1>
   <p align="center">
