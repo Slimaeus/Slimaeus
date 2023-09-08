@@ -37,7 +37,7 @@
   
 </p>
 <p align="center">
-  <img alt="Github Streaks" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Slimaeus&theme=dracula&hide_border=true&width=1000" />
+  <img alt="Github Chart" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Slimaeus&theme=dracula&hide_border=true&width=1000" />
 </p>
 <h1 align="center">📚 Languages & 🏆 Trophies</h1>
 <p align="center">
