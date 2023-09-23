@@ -15,15 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,react,flutter,nextjs" />
-    <img src="https://skillicons.dev/icons?i=azure,vercel,docker,k8s" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=cs,js,ts,dart" />
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,github" />
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery" />
-    <br>
+    <img src="https://skillicons.dev/icons?i=dotnet,react,flutter,nextjs,azure,vercel,docker,k8s,cs,js,ts,dart,postgres,mongodb,redis,rabbitmq,visualstudio,vscode,postman,github,html,css,bootstrap,jquery&perline=12" />
   </a>
 </p>
 
