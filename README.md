@@ -15,13 +15,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,react,flutter,nextjs" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    <img src="https://skillicons.dev/icons?i=dotnet,react,flutter,nextjs" />
     <img src="https://skillicons.dev/icons?i=azure,vercel,docker,k8s" />
     <br>
-    <img src="https://skillicons.dev/icons?i=cs,js,ts,dart" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    <img src="https://skillicons.dev/icons?i=cs,js,ts,dart" />
     <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq" />
     <br>
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,github" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,github" />
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery" />
     <br>
   </a>
