@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,ts,dart,postgres,mongodb,redis,rabbitmq,visualstudio,vscode,postman,github,dotnet,react,flutter,nextjs,azure,vercel,docker,k8s,html,css,bootstrap,jquery&perline=24" />
+    <img src="https://skillicons.dev/icons?i=cs,js,ts,dart,postgres,mongodb,redis,rabbitmq,visualstudio,vscode,postman,github,dotnet,react,flutter,nextjs,azure,vercel,docker,k8s,html,css,bootstrap,jquery&perline=12" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
   <img alt="Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=slimaeus&theme=dracula&hide_border=true&card_width=600" />
   
 </p>
-<p align="center">
+<!-- <p align="center">
   <img alt="Github Chart" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Slimaeus&theme=dracula&hide_border=true&width=1000" />
 </p>
 <h1 align="center">📚 Languages & 🏆 Trophies</h1>
@@ -37,4 +37,4 @@
     <img alt="Github Trophies" src="https://github-profile-trophy.vercel.app/?username=slimaeus&theme=dracula&no-frame=true&column=2&row=2&margin-w=0&rank=-SECRET,-S,-SS,-SSS,-A,-AA,-AAA" />
 </p>
 
-<br>
+<br> -->
