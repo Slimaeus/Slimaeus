@@ -3,8 +3,6 @@
   
 - 😀 My name is Nguyễn Hồng Thái
 
-- 📖 Studying at [HUTECH](https://www.hutech.edu.vn/)
-
 - ❤️ I love writing C#
 
 - 💬 Ask me about anything [here](https://github.com/slimaeus/slimaeus/issues)
