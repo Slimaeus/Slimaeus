@@ -12,6 +12,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,ts,dart,postgres,mongodb,redis,rabbitmq,visualstudio,vscode,postman,github,dotnet,react,flutter,nextjs,azure,vercel,docker,k8s,html,css,bootstrap,jquery&perline=12" />
+    <img src="https://skillicons.dev/icons?i=cs,js,ts,dart,postgres,visualstudio,vscode,dotnet,react,flutter&perline=10" />
   </a>
 </p>
